@@ -1,5 +1,6 @@
-## Hi there 👋
-
+#Hello World 👋
+I am an incoming freshmen at the University of Illinois Urbana-Champiagn where I plan on studing finance and data sceince!
+In my free tiem I enjoy reading and crochet.
 <!--
 **maxineyepdjeu/maxineyepdjeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
